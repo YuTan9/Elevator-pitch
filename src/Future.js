@@ -3,6 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 const Future = () => {
     return <>
         <div className="sectionTopId" id="future" />
+        <div className='spacer50px' />
+        <div className='spacer50px' />
         <div className="sectionTitle" >Career Plan</div>
         <div className='spacer50px' />
         <Container >
@@ -27,6 +29,7 @@ const Future = () => {
                     <h3>Long term</h3>
                     <ul>
                         <li>Become a leader</li>
+                        <li>Continue his passion in building meaningful solutions</li>
                     </ul>
 
                 </Col>
